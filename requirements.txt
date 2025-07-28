@@ -1,7 +1,8 @@
 python-dotenv
 pandas
 numpy
-pymongo
-cetifi
-
-##-e .
+pymongo[srv]>=4.3.0
+   
+certifi
+scikit-learn
+# -e .  
