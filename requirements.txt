@@ -2,7 +2,8 @@ python-dotenv
 pandas
 numpy
 pymongo[srv]>=4.3.0
-   
 certifi
 scikit-learn
+mlflow
+pyaml
 # -e .  
